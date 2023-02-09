@@ -1,0 +1,17 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  background-color: rgb(244, 235, 198);
+}
+.App{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+h2{
+  margin:20px;
+  font-family: 'Quicksand', sans-serif;
+}
